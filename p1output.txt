@@ -1,1 +1,8 @@
-
+gcc -g p1original.c -lm
+ ./a.out
+enter two points
+2
+3
+4
+5
+distance of 2.000000 3.000000, 4.000000 5.000000 is 1.414214
